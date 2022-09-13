@@ -4,7 +4,7 @@ Il miglior approccio per coinvolgere la musica come trattamento di benessere
 
 Oggi la musica come cura del benessere viene utilizzata in diverse circostanze educative cliniche, psicoterapeutiche e terapeutiche. La maggior parte degli specialisti di musica lavora in centri, case, scuole e in diversi uffici che offrono assistenza e consulenza a breve termine, alcuni anche in pratica confidenziale.
 
-In generale, viene fatta una qualifica tra il trattamento musicale dinamico (il paziente partecipa con uno strumento o la voce) e il trattamento musicale reattivo (l'ascolto efficace della musica e l'assorbimento delle sue vibrazioni vengono prima di tutto).
+In generale, viene fatta una qualifica tra il trattamento musicale dinamico (il paziente partecipa con uno strumento o la voce) e il trattamento musicale reattivo (l'ascolto efficace della musica e l'assorbimento delle sue vibrazioni vengono prima di tutto). https://issuetracker.unity3d.com/issues/mesh-doesnt-get-rendered-in-player-when-using-graphics-dot-drawmeshinstanced
 
 Il fulcro del trattamento musicale dinamico è la corrispondenza non verbale attraverso improvvisazioni musicali congiunte, (non immobilizzate, comunque libere). Ciò dovrebbe essere possibile con vari strumenti musicali ma anche con gli "strumenti" del corpo (mani, piedi, voce). Normalmente esiste anche la possibilità di lavorare con la lingua, ad esempio nel commercio conversazionale o componendo i versi quasi per niente, parlando e cantando. A seconda delle circostanze, un testo può ad esempio essere disinibitamente improvvisato sia per cantare che per finta verbale. https://colab.research.google.com/drive/10uOQc6w_kMCoT_dmJ96svTe3pKXxoP5R?bngkhgkjf
 
@@ -30,3 +30,5 @@ https://groups.google.com/g/roberto-solana/c/9jmT98kUtXk?hsfdgtse
 https://t.co/McjQMZCFpp?hsdtrwy
 https://github.com/tersambo/hkjGKHDFA8-kGKhg/blob/main/README.md
 https://t.co/UWF6HIv3ZR?bguts
+https://t.co/yXGg248gJf?fdteui0o
+https://kakeane.business.blog/2022/09/14/la-connessione-tra-consulente/
