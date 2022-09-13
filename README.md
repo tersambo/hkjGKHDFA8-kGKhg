@@ -6,7 +6,7 @@ Oggi la musica come cura del benessere viene utilizzata in diverse circostanze e
 
 In generale, viene fatta una qualifica tra il trattamento musicale dinamico (il paziente partecipa con uno strumento o la voce) e il trattamento musicale reattivo (l'ascolto efficace della musica e l'assorbimento delle sue vibrazioni vengono prima di tutto).
 
-Il fulcro del trattamento musicale dinamico è la corrispondenza non verbale attraverso improvvisazioni musicali congiunte, (non immobilizzate, comunque libere). Ciò dovrebbe essere possibile con vari strumenti musicali ma anche con gli "strumenti" del corpo (mani, piedi, voce). Normalmente esiste anche la possibilità di lavorare con la lingua, ad esempio nel commercio conversazionale o componendo i versi quasi per niente, parlando e cantando. A seconda delle circostanze, un testo può ad esempio essere disinibitamente improvvisato sia per cantare che per finta verbale.
+Il fulcro del trattamento musicale dinamico è la corrispondenza non verbale attraverso improvvisazioni musicali congiunte, (non immobilizzate, comunque libere). Ciò dovrebbe essere possibile con vari strumenti musicali ma anche con gli "strumenti" del corpo (mani, piedi, voce). Normalmente esiste anche la possibilità di lavorare con la lingua, ad esempio nel commercio conversazionale o componendo i versi quasi per niente, parlando e cantando. A seconda delle circostanze, un testo può ad esempio essere disinibitamente improvvisato sia per cantare che per finta verbale. https://colab.research.google.com/drive/10uOQc6w_kMCoT_dmJ96svTe3pKXxoP5R?bngkhgkjf
 
 https://play.acast.com/s/6320b88ea242640013e204f5/?page=1
 https://play.acast.com/s/6320b891faf8470012e69fe3/?page=2
